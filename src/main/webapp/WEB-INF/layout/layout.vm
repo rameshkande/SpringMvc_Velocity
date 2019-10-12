@@ -1,0 +1,11 @@
+<html>
+     <head>
+        <title>Velocity</title>
+      </head>
+      <body>
+           <tr> <td>#include("/WEB-INF/layout/header.vm") </td> </tr>
+           <tr> <td>$screen_content</td> </tr>
+           <tr> <td>#include("/WEB-INF/layout/footer.vm") </td> </tr>
+           <tr> <td> <B>RAMESH </B></td> </tr>
+      </body>
+</html>
